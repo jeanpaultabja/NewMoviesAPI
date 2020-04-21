@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.0": {
       "NewMoviesAPI/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Razor.Language": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0",
