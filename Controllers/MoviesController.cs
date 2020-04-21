@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NewMoviesAPI.Data;
 using NewMoviesAPI.Models;
+using Microsoft.AspNetCore.Razor.Language;
+
 
 namespace NewMoviesAPI.Controllers
 {
